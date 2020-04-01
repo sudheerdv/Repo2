@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D835-5FE2
+
+ Directory of C:\Users\lenoivo\Desktop\GitProject
+
+04/01/2020  05:28 PM    <DIR>          .
+04/01/2020  05:28 PM    <DIR>          ..
+04/01/2020  05:28 PM               125 test1.txt
+               1 File(s)            125 bytes
+               2 Dir(s)  17,117,085,696 bytes free
